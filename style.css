@@ -17,7 +17,7 @@ img {
     border-radius: 5%;
 }
 
-section {
+main {
     display: flex;
     flex-direction: column;
     gap: 2rem;
@@ -46,7 +46,7 @@ p {
 @media (min-width: 40em) {
 
 
-    section {
+    main {
         width: 22rem;
         margin: 8rem auto;
         gap: 1.5rem;
